@@ -1,0 +1,14 @@
+{
+    "name": "Site Blooooker",
+    "version": "0.0.5",
+    "description": "block useless sites",
+    "permissions": ["webRequest", "webRequestBlocking", $URLS_SRC_GENERATED],
+    "background": {
+        "scripts": ["background.js"]
+    },
+    "web_accessible_resources": ["blocked.html"],
+    "browser_action": {
+        "default_icon": "icon32.png"
+    },
+    "manifest_version": 2
+}
