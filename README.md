@@ -25,8 +25,11 @@ defaults read com.google.Chrome URLBlacklist
 ```
 
 ```
-defaults write com.google.Chrome URLBlacklist -array URLBlacklist advertising.com doubleclick.com doubleclick.net adsymptotic.com taboola.com facebook.net facebook.com adservice.google.com analytics.twitter.com smartnews-ads.com ads-twitter.com adservice.google.com googletagmanager.com google-analytics.com googletagmanager.com
+cat blacklist.txt | grep -v '^#' | xargs defaults write com.google.Chrome URLBlacklist -array
 ```
+
+* `doubleclick.com` includes `www.doubleclick.com`
+* This URLBlacklist is also valid in incognito window!
 
 ```
 defaults delete com.google.Chrome URLBlacklist
@@ -34,7 +37,7 @@ defaults delete com.google.Chrome URLBlacklist
 
 enable setting
 ```
-chrome://policy/
+chrome://policy
 ```
 
 * [Block Facebook \- Chrome ウェブストア]( https://chrome.google.com/webstore/detail/block-facebook/gebclbfnlcebcljmgblacllmjkfidoef )

@@ -29,3 +29,10 @@ eval "cat <<EOF
 $(<manifest.base.json)
 EOF
 " 2>/dev/null >manifest.json
+
+if [[ $(uname) == "Darwin" ]]; then
+	cat blacklist.txt | grep -v '^#' | xargs defaults write com.google.Chrome URLBlacklist -array
+	echo ''
+	echo 'update chrome setting!'
+	echo 'chrome://policy'
+fi
