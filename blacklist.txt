@@ -1,5 +1,6 @@
 # r.r10s.jp # rakuten
 a.popin.cc
+ad.ad-arata.com
 ads-twitter.com
 adservice.google.co.jp
 adservice.google.com
@@ -7,6 +8,7 @@ adsymptotic.com
 advertising.com
 aid.send.microad.jp
 analytics.twitter.com
+assys01.fc2.com
 aw.dw.impact-ad.jp
 b.logly.co.jp
 bigmining.com
@@ -19,11 +21,13 @@ facebook.com
 facebook.net
 google-analytics.com
 googletagmanager.com
+img.gsspat.jp
 in.treasuredata.com
 l.logly.co.jp
 ogs.google.com
 penta.a.one.impact-ad.jp
 relay-dsp.ad-m.asia
+rt.gsspat.jp
 securepubads.g.doubleclick.net
 smartnews-ads.com
 taboola.com
