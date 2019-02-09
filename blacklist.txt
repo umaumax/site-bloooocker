@@ -8,6 +8,7 @@ adsymptotic.com
 advertising.com
 aid.send.microad.jp
 analytics.twitter.com
+ard.yahoo.co.jp
 assys01.fc2.com
 aw.dw.impact-ad.jp
 b.logly.co.jp
@@ -26,6 +27,7 @@ in.treasuredata.com
 l.logly.co.jp
 ogs.google.com
 penta.a.one.impact-ad.jp
+rdsig.yahoo.co.jp
 relay-dsp.ad-m.asia
 rt.gsspat.jp
 securepubads.g.doubleclick.net

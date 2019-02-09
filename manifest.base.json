@@ -1,6 +1,6 @@
 {
     "name": "Site Blooooker",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "block useless sites",
     "permissions": ["webRequest", "webRequestBlocking", $URLS_SRC_GENERATED],
     "background": {
