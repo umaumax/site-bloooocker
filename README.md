@@ -5,6 +5,8 @@ useless site blocker chrome extension
 ## NOTE
 * blockするURLのprotocolとhostは決め打ちのみ?
   * pathは'*'が使用可能
+* `chrome://extensions`
+  * You can set `Allow in incognito`.
 
 ## how to update blacklist
 ```
