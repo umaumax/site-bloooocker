@@ -1,4 +1,5 @@
 # r.r10s.jp # rakuten
+# tshop.r10s.jp # rakuten
 a.popin.cc
 ad.ad-arata.com
 ads-twitter.com
@@ -33,7 +34,6 @@ rt.gsspat.jp
 securepubads.g.doubleclick.net
 smartnews-ads.com
 taboola.com
-tshop.r10s.jp
 www.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
