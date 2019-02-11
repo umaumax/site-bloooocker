@@ -1,4 +1,5 @@
 # r.r10s.jp # rakuten
+# rdsig.yahoo.co.jp # yahoo
 # tshop.r10s.jp # rakuten
 a.popin.cc
 ad.ad-arata.com
@@ -28,7 +29,6 @@ in.treasuredata.com
 l.logly.co.jp
 ogs.google.com
 penta.a.one.impact-ad.jp
-rdsig.yahoo.co.jp
 relay-dsp.ad-m.asia
 rt.gsspat.jp
 securepubads.g.doubleclick.net
